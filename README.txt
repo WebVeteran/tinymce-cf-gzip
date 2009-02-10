@@ -12,3 +12,7 @@ Based on a work at tinymce.moxiecode.com.
 
 The gzip functions were adapted and incorporated by permission
 from Artur Kordowski's Zip CFC 1.2 : http://zipcfc.riaforge.org/
+
+REQUIREMENTS:
+• CF/Java write permission to the directory tinyMCE is in.
+• CF Permission to CFObject tag.
