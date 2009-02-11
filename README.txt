@@ -4,7 +4,7 @@ size 75% smaller and the number of requests will also be
 reduced. The overall initialization time for TinyMCE will
 be reduced dramatically if you use this script. 
 
-Copyright (c) 2009 Gravinese Enterprises, Inc.
+Copyright (c) 2009 Gravinese Enterprises Inc.
 Jules Gravinese : http://www.webveteran.com/
 
 TinyMCE CF GZIP by Jules Gravinese is licensed under a Creative
