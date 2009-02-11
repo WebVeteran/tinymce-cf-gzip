@@ -1,10 +1,11 @@
 TinyMCE CF GZIP gzips all javascript files in TinyMCE to
-a single stream able file. This makes the overall download
+a single streamed file. This makes the overall download
 size 75% smaller and the number of requests will also be
 reduced. The overall initialization time for TinyMCE will
 be reduced dramatically if you use this script. 
 
-Copyright (c) 2009 Jules Gravinese : http://www.webveteran.com/
+Copyright (c) 2009 Gravinese Enterprises Inc
+Jules Gravinese : http://www.webveteran.com/
 
 TinyMCE CF GZIP by Jules Gravinese is licensed under a Creative
 Commons Attribution-Share Alike 3.0 United States License.
