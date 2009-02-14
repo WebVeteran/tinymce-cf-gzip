@@ -1,7 +1,7 @@
 1. Copy the tiny_mce_gzip.js and tiny_mce_cf_gzip.cfm to the tiny_mce directory. The same directory that contains the tiny_mce.js file.
 2. Remove the current script tag. <script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
 3. Add the new new GZip script <script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce_cf_gzip.js"></script>.
-4. Add the new GZip initialization call that will tell the compressor what to include in the output. This should be the sum of all and themes, plugins contained on page. 
+4. Add the new GZip initialization call that will tell the compressor what to include in the output. This should be the sum of all themes and plugins contained on the page. 
 
 EXAMPLE:
 <script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce_cf_gzip.js"></script>
