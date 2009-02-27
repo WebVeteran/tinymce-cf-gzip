@@ -1,3 +1,12 @@
+===== NOTICE ==============================================
+THIS PROJECT NOW RESIDES AT SOURCEFORGE,
+AS PART OF TINYMCE:
+https://sourceforge.net/projects/tinymce
+PLEASE DOWNLOAD ALL UPDATES DIRECTLY
+FROM MOXIECODE'S WEBSITE:
+http://tinymce.moxiecode.com/download.php
+===========================================================
+
 TinyMCE CF GZIP gzips all javascript files in TinyMCE to
 a single streamed file. This makes the overall download
 size 75% smaller and the number of requests will also be
